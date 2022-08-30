@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matt022
 - 👀 I’m interested in programming
-- 👋 I'm absolute beginner in programming, so I'm still learning
-- 🌱 I’m currently learning Web Development - HTML, CSS, JavaScript and React
+- 👋 I'm beginner in programming, so I'm still learning
+- 🌱 I’m currently learning Web Development - HTML, CSS, JavaScript, TypeScript, Angular
 - 📫 How to reach me:
 -     LinkedIn - https://www.linkedin.com/in/matus-benus/
 
