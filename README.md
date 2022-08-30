@@ -3,7 +3,7 @@
 - 👋 I'm absolute beginner in programming, so I'm still learning
 - 🌱 I’m currently learning Web Development - HTML, CSS, JavaScript and React
 - 📫 How to reach me:
--     ig - https://www.instagram.com/mathews_ig_account/
+-     LinkedIn - https://www.linkedin.com/in/matus-benus/
 
 <!---
 Matt022/Matt022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
