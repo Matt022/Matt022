@@ -12,8 +12,8 @@ Do budúcna mám v pláne pracovať na ďalších projektoch, ktoré prepájajú
 🎯 Cieľavedomosť – či už ide o malý nástroj alebo komplexnú aplikáciu, vždy sa snažím priniesť hodnotu.
 
 Mimo kódu
-Keď neprogramujem, venujem sa športu – mám rád bedminton, cvičenie a skákanie cez švihadlo 🏸💪. Okrem toho som vášnivým fanúšikom hudby, najmä žánrov ako rock, metal, EDM, dubstep a elektronická hudba 🎶. Taktiež ma zaujíma marketing a vzdelávanie.
-- 📫 How to reach me:
+Keď neprogramujem, venujem sa športu – mám rád bedminton, cvičenie a švihadlo 🏸💪. Okrem toho som vášnivým fanúšikom hudby, najmä žánrov ako rock, metal, EDM, dubstep a elektronická hudba 🎶. Taktiež ma zaujíma marketing a vzdelávanie.
+📫 Kde ma kontaktovať:
 -     LinkedIn - https://www.linkedin.com/in/matus-benus/
 
 <!---
