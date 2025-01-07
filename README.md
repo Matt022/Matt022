@@ -3,6 +3,7 @@ Pracujem na firemnej aplikácii pre vzdelávanie, no vo voľnom čase rád exper
 Doteraz som vytvoril napríklad:
  - Hru na hádanie RGB farieb pre dizajnérov,
  - ISIC Photo Converter pre Katolícku univerzitu v Ružomberku.
+   
 Do budúcna mám v pláne pracovať na ďalších projektoch, ktoré prepájajú kreativitu a technológie.
 
 Čo ma vystihuje
